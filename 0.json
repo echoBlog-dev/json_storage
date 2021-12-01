@@ -1,9 +1,9 @@
 {
-	"name": “mastoken”,
+	"name": "mas",
 	"description": "Lorem ipsum...",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bega_Canal_0.jpg",
 	"properties": {
-		"simple_property": “camel”,
+		"simple_property": "canel",
 		"rich_property": {
 			"name": "Name",
 			"value": "123",
